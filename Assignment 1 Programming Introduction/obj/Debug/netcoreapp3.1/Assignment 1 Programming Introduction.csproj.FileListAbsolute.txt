@@ -1,0 +1,13 @@
+D:\Learning\USF - DIS\Assignment 1 - Programming Introduction\Assignment 1 Programming Introduction\bin\Debug\netcoreapp3.1\Assignment 1 Programming Introduction.exe
+D:\Learning\USF - DIS\Assignment 1 - Programming Introduction\Assignment 1 Programming Introduction\bin\Debug\netcoreapp3.1\Assignment 1 Programming Introduction.deps.json
+D:\Learning\USF - DIS\Assignment 1 - Programming Introduction\Assignment 1 Programming Introduction\bin\Debug\netcoreapp3.1\Assignment 1 Programming Introduction.runtimeconfig.json
+D:\Learning\USF - DIS\Assignment 1 - Programming Introduction\Assignment 1 Programming Introduction\bin\Debug\netcoreapp3.1\Assignment 1 Programming Introduction.runtimeconfig.dev.json
+D:\Learning\USF - DIS\Assignment 1 - Programming Introduction\Assignment 1 Programming Introduction\bin\Debug\netcoreapp3.1\Assignment 1 Programming Introduction.dll
+D:\Learning\USF - DIS\Assignment 1 - Programming Introduction\Assignment 1 Programming Introduction\bin\Debug\netcoreapp3.1\Assignment 1 Programming Introduction.pdb
+D:\Learning\USF - DIS\Assignment 1 - Programming Introduction\Assignment 1 Programming Introduction\obj\Debug\netcoreapp3.1\Assignment 1 Programming Introduction.csprojAssemblyReference.cache
+D:\Learning\USF - DIS\Assignment 1 - Programming Introduction\Assignment 1 Programming Introduction\obj\Debug\netcoreapp3.1\Assignment 1 Programming Introduction.AssemblyInfoInputs.cache
+D:\Learning\USF - DIS\Assignment 1 - Programming Introduction\Assignment 1 Programming Introduction\obj\Debug\netcoreapp3.1\Assignment 1 Programming Introduction.AssemblyInfo.cs
+D:\Learning\USF - DIS\Assignment 1 - Programming Introduction\Assignment 1 Programming Introduction\obj\Debug\netcoreapp3.1\Assignment 1 Programming Introduction.csproj.CoreCompileInputs.cache
+D:\Learning\USF - DIS\Assignment 1 - Programming Introduction\Assignment 1 Programming Introduction\obj\Debug\netcoreapp3.1\Assignment 1 Programming Introduction.dll
+D:\Learning\USF - DIS\Assignment 1 - Programming Introduction\Assignment 1 Programming Introduction\obj\Debug\netcoreapp3.1\Assignment 1 Programming Introduction.pdb
+D:\Learning\USF - DIS\Assignment 1 - Programming Introduction\Assignment 1 Programming Introduction\obj\Debug\netcoreapp3.1\Assignment 1 Programming Introduction.genruntimeconfig.cache
