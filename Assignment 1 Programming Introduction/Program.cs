@@ -10,7 +10,7 @@ namespace Assignment_1_Programming_Introduction
             int n = 5;
             PrintTriangle(n);
 
-            int n2 = 5;
+            int n2 = 10;
             PrintSeriesSum(n2);
 
             int[] A = new int[] { 1, 4, 2, 6 }; ;
@@ -69,8 +69,9 @@ namespace Assignment_1_Programming_Introduction
             {
                 List<int> resultList = new List<int>(); // Initialize a new list to store results of computation
                 int i = 1; // Initialize a variable for looping
-                while(resultList.Capacity <= n) // Condition to check if we have reached desired no. of elements in the list after each loop iteration
+                while (resultList.Count < n) // Condition to check if we have reached desired no. of elements in the list after each loop iteration
                 {
+                    
                     if (i%2 != 0) // Check if 'i' is an odd number
                     {
                         resultList.Add(i); // If odd, add the number to our resultList
