@@ -1,0 +1,8 @@
+The problems were quite straight forward and could have been solved easily were it not for the time complexity constraints. 
+
+The idea of enforcing  time complexity specification is much appreciated. 
+Otherwise, I would have not gone on to use Hash Maps / Dictionaries and instead stuck with the easier option of nesting for loops. 
+
+I'd like it if there were more string based / pattern matching problems involved in the assignment. 
+If there are more test cases included with the base Program.cs, it would be great. 
+Otherwise - it is quite difficult to copy paste the code onto Leetcode and check if my code passes all the test cases. 
